@@ -1,5 +1,4 @@
 # Learning-SQL-Programming
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Masrik-Dahir.repoName)
 
 Instructor: Scott Simpson
 
